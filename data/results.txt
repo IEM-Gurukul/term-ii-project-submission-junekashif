@@ -1,0 +1,68 @@
+# This file will store quiz results
+# Each result will be recorded with student name, quiz title, score, and question-level results
+========================================
+Student: John Doe
+Quiz: Java Fundamentals Quiz
+Score: 0 / 5
+Percentage: 0.00%
+Question Results:
+  Q1: WRONG
+  Q2: WRONG
+  Q3: WRONG
+========================================
+
+========================================
+Student: John Doe
+Quiz: Java Fundamentals Quiz
+Score: 0 / 5
+Percentage: 0.00%
+Question Results:
+  Q1: WRONG
+  Q2: WRONG
+  Q3: WRONG
+========================================
+
+========================================
+Student: John Doe
+Quiz: Java Fundamentals Quiz
+Score: 0 / 5
+Percentage: 0.00%
+Question Results:
+  Q1: WRONG
+  Q2: WRONG
+  Q3: WRONG
+========================================
+
+========================================
+Student: John Doe
+Quiz: Java Fundamentals Quiz
+Score: 0 / 5
+Percentage: 0.00%
+Question Results:
+  Q1: WRONG
+  Q2: WRONG
+  Q3: WRONG
+========================================
+
+========================================
+Student: Kashif
+Quiz: Java Fundamentals Quiz
+Score: 2 / 5
+Percentage: 40.00%
+Question Results:
+  Q1: CORRECT
+  Q2: WRONG
+  Q3: WRONG
+========================================
+
+========================================
+Student: ksa
+Quiz: Java Fundamentals Quiz
+Score: 3 / 5
+Percentage: 60.00%
+Question Results:
+  Q1: CORRECT
+  Q2: CORRECT
+  Q3: WRONG
+========================================
+
