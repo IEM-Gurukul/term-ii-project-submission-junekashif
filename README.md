@@ -4,7 +4,7 @@
 ##Online Quiz Engine
 ---
 
-## Problem Statement (max 150 words)
+## Problem Statement
 The Online Quiz Engine is a comprehensive Java-based application designed to facilitate the creation, administration, and evaluation of online quizzes. The system supports multiple question types including Multiple Choice Questions (MCQ), True/False questions, and Short Answer questions. It provides real-time quiz sessions with background countdown timers, persistent storage for quizzes and results, and a strategy-based scoring system.
 
 The application addresses the need for an automated quiz management system that can handle different question formats, enforce time limits, provide immediate feedback, and maintain records of quiz attempts. Key challenges include implementing polymorphic question evaluation, managing concurrent timer threads, ensuring data persistence, and providing a user-friendly console interface.
@@ -38,7 +38,7 @@ The Online Quiz Engine targets educators, instructors, and educational instituti
 
 ---
 
-## Proposed Architecture Description
+## Proposed Architecture :-
 Follows a modular, layered design with clear separation of concerns:
 
 Layered Architecture:
