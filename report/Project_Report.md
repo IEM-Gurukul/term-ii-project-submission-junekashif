@@ -2,12 +2,11 @@
 
 ## Title Page
 
-**Course Name:** [Insert Course Name]  
+**Course Name:** OOPS Lab  
 **Project Title:** Online Quiz Engine  
-**Student Name:** [Insert Student Name]  
-**Roll Number:** [Insert Roll Number]  
-**Instructor Name:** [Insert Instructor Name]  
-**Semester:** Spring 2026  
+**Student Name:** Mohammed Kashif Ansari  
+**Roll Number:** 45  
+**Semester:** 4
 
 ---
 
@@ -575,9 +574,6 @@ The application includes comprehensive unit tests in `UnitTest.java` covering:
 
 ## 6. Git Workflow
 
-### Screenshot of Commit History
-
-[Insert screenshot of `git log --oneline` showing the following commits:]
 
 ```
 2e5ede6 (HEAD -> main, origin/main, origin/HEAD) added bin folder cz forgot
@@ -631,22 +627,3 @@ The application achieves all core requirements: multiple question types, persist
 8. **AI-Powered Features:** Automated question generation and difficulty assessment
 
 ---
-
-## Appendix
-
-### Copy of the Initial Project Proposal
-
-[Insert initial project proposal document here]
-
-### Copy of the Review Mail Received
-
-[Insert review mail with APPROVED_MINOR status here]
-
-### Additional Materials
-
-- Source code available in `src/` directory
-- Compiled classes in `bin/` directory  
-- Test data in `data/` directory
-- Unit tests in `UnitTest.java`
-- Build scripts and configuration files</content>
-<parameter name="filePath">c:\Users\kakas\OneDrive\Desktop\Github Uploads\OnlineQuizEngine\Project_Report.md
