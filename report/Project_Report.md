@@ -1,7 +1,5 @@
 # Online Quiz Engine - Project Report
 
-## Title Page
-
 **Course Name:** OOPS Lab  
 **Project Title:** Online Quiz Engine  
 **Student Name:** Mohammed Kashif Ansari  
